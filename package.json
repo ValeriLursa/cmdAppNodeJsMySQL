@@ -1,0 +1,22 @@
+{
+  "name": "cmdappnodejsmongodb",
+  "version": "1.0.0",
+  "description": "Cmd app node.js && mySql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Kovaleva Valeria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mysql2": "^3.3.2",
+    "yargs": "^17.7.2"
+  }
+}
